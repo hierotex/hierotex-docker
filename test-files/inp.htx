@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage{egypto}
+\usepackage[psfonts]{hiero}
+
+\begin{document}
+
+ \begin{center}
+   \EnColonne[1.2\Htm]{
+     \begin{hieroglyph}
+       G5 <S E1 D40 xa m R19*(t\s1:niwt\s1) >-!
+       nbty wAH sw*\!t\s1*\!i*i (ra:Z1)*mi m (p*t:pt)-! 
+       sxm*G8 F9*F9  Dsr-xa-Z2-!
+       (sw:t)*(bit:t) <ra-mn-xpr>-! zA*\!\!\!(ra:.)
+       <-G26-ms*nfr-xpr->-! O10 nb-t M-f (kA:t)*(N33:N33:N33) mr*i*i
+     \end{hieroglyph}}
+ \end{center}
+
+\end{document}
