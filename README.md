@@ -5,7 +5,7 @@ via Docker.
 
 ## Test machine setup
 
-- Debian Stable with lates stable version of Docker.
+- Debian Stable with latest stable version of Docker.
 - User running tests must be in `docker` group.
 - Host machine should have no TeX environment at all.
 - Need GNU parallel
